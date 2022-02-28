@@ -1,4 +1,4 @@
-# ChatingBackend
+# FrenCha Chatting App
 Chatting App Backed with node &amp; Socket.io
 
 # Check Deployment Status
